@@ -1,6 +1,6 @@
 # Leakage-Free Ordinal Deep Learning for Alzheimer Disease Staging from Structural Magnetic Resonance Imaging with Quantitative Attention Mapping
 
-Code for the paper by **Jami Janardhanarao, Somaraju Mouli and Chappa Ramesh**
+Code for the paper by **Jami Janardhanarao, Somaraju Mouli and Ch. Ramesh**
 (submitted to the *International Journal of Imaging Systems and Technology*, Wiley).
 
 The study classifies three Clinical Dementia Rating (CDR) stages (Non-Demented, Very Mild, Mild/Moderate) from structural MRI of the OASIS-1 cohort using subject-level five-fold cross-validation, an ordinal formulation, quantitative Grad-CAM attention mapping, and an external validation on OASIS-3 with the model and decision rule fixed in advance.
